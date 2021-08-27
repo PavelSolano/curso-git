@@ -20,9 +20,7 @@ body{
     font-size: 4rem;
 }
 
-<<<<<<< HEAD
-.body_first_p , p{
-=======
+
 .cabecera{
     border: black;
     background-color: blueviolet;
@@ -32,8 +30,7 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
-.body_first_p{
->>>>>>> cabecera
+.body_first_p, p{
 
     text-align: center;
     color: black;
