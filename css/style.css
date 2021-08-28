@@ -15,7 +15,7 @@ h1{
 }
 body{
     text-align: center;
-    color: blueviolet;
+    color: rgb(247, 21, 21);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 4rem;
 }
@@ -33,7 +33,7 @@ body{
 .body_first_p, p{
 
     text-align: center;
-    color: black;
+    
     font-size: 2rem;
     margin: 4rem;
 }
